@@ -41,15 +41,22 @@ lmtest
 ## 📈 Tableau Dashboard
 https://public.tableau.com/app/profile/evdokia.samitov/viz/Capstone_BusinessVS_Healthcare/Businessvs_Healthcareprograms
 
-Interactive Dashboard:
-
-Business vs Healthcare Tableau Dashboard
-
 ## 🎥 Project Walkthrough
 https://www.youtube.com/watch?v=WFrAXNiOIQs
 
 ## 🎨 Canva Presentation
 https://canva.link/gbqpw3bph2iiduy
+
+## 📷 Project Visualizations
+
+### Graduate Debt vs 10-Year Earnings
+![Graduate Debt vs Earnings](screenshots/graduate_debt_vs_earnings.png)
+
+### Correlation Matrix & Program Analysis
+![Correlation Matrix](screenshots/correlation_matrix_analysis.png)
+
+### ROI & Graduation Rate Analysis
+![ROI Analysis](screenshots/roi_and_graduation_analysis.png)
 
 🔍 Key Findings
 
@@ -72,7 +79,13 @@ Statistical analysis outputs
 Source:
 U.S. Department of Education College Scorecard Dataset
 
-👩‍💻 Author
+## 👥 Project Team
 
-Eva Samitova
-BAS Data Management & Analytics — Bellevue College
+This capstone project was completed collaboratively by:
+
+- Eva Samitova
+- Sofia Alentyeva
+- Acshanah Pararajasingam
+- Marenah Ryan
+
+Bellevue College — BAS Data Management & Analytics

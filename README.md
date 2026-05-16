@@ -50,13 +50,13 @@ https://canva.link/gbqpw3bph2iiduy
 ## 📷 Project Visualizations
 
 ### Graduate Debt vs 10-Year Earnings
-![Graduate Debt vs Earnings](screenshots/graduate_debt_vs_earnings.png)
+![Graduate Debt vs Earnings](screenshots/grad_debt.png)
 
 ### Correlation Matrix & Program Analysis
-![Correlation Matrix](screenshots/correlation_matrix_analysis.png)
+![Correlation Matrix](screenshots/correlation_matrix.png)
 
 ### ROI & Graduation Rate Analysis
-![ROI Analysis](screenshots/roi_and_graduation_analysis.png)
+![ROI Analysis](screenshots/ROI.png)
 
 🔍 Key Findings
 
